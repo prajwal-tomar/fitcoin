@@ -3,12 +3,15 @@
 I first implemented the Blockchain Technology.
 This is capable of mining new blocks, checking if the chain is valid/ invalid and also returns us the chain
 
+# Fitcoin in action
+![VS Code SS](images/main_image.png)
+
 Converted this existing code of Blockchain into a cryptocurrency.
 To convert blockchain into the fitcoin cryptocurrency, I added decentralization, transaction functions, and also implemented the consensus algorithm
 
 Nodes.json file contain the addresses of all the nodes who are part of our network:
 
-![Nodes json file](nodes.png)
+![Nodes json file](images/nodes.png)
 
 transaction.json file contains the details on how to add a transaction to a block
 
@@ -18,11 +21,8 @@ I ran the nodes by opening multiple consoles on VS Code
 
 Will soon deploy by creating the front-end part of this cryptocurrency
 
-# Fitcoin in action
-![VS Code SS](main_image.png)
-
 # get_chain method in POSTMAN
-![VS Code SS](get_chain.png)
+![VS Code SS](images/get_chain.png)
 
 # mine_block method in POSTMAN
-![VS Code SS](mine_block.png)
+![VS Code SS](images/mine_block.png)
