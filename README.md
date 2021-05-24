@@ -1,7 +1,7 @@
 # FITCOIN CRYPTOCURRENCY
 
 I first implemented the Blockchain Technology.
-This is capable of mining new blocks, checking if the chain is valid/ invalid and also returns us the chain
+This is capable of mining new blocks, checking if the chain is valid/ invalid and also returns the chain
 
 # Fitcoin in action
 ![VS Code SS](images/main_image.png)
